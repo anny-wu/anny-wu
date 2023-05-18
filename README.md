@@ -59,7 +59,7 @@ I am a senior studying Computer Science at University of Michigan.
 </div>   
             
 ---
-### :paintbrush: Design:
+### :paintbrush: Design Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
