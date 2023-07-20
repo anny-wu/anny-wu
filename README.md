@@ -43,7 +43,7 @@ I am a senior studying Computer Science at University of Michigan.
 ---
 ### :gear: IDES:
 <div>
-  <img src="https://cdn.simpleicons.org/androidstudio" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/intellijidea" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
