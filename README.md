@@ -17,7 +17,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a first-year master's studying Computer Science and Engineering at University of Michigan.
+I am a first-year master's student studying Computer Science and Engineering at University of Michigan.
 - :1234: Sensitive to numbers and patterns
 - :movie_camera: Embrace creativity through photos and videos
 - :abcd: Enjoy learning about different languages and cultures
