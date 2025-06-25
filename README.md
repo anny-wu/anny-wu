@@ -8,11 +8,6 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <div id="website">
-     <a href="https://anny-wu.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=reacthookform&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </div>
 </div>
 
 ---
